@@ -65,6 +65,11 @@
          "description": "Your Name",
          "value": "✰Sᴀͥʀᴀͣᴛͫʜ™️✰"
       },
+      "OWNER_USERNAME": {	
+         "description": "your user-id",
+         "required": true,
+         "value": ""	
+      },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
@@ -135,6 +140,11 @@
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
          "value": "1118936839"
+      },
+       "NO_LOAD": {
+         "description": "Modules you don't need to load.",
+         "required": false,
+         "value": ""
       },
       "WALL_API":{
          "description": "Enter wall api",
