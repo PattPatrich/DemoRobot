@@ -65,11 +65,7 @@
          "description": "Your Name",
          "value": "✰Sᴀͥʀᴀͣᴛͫʜ™️✰"
       },
-      "OWNER_USERNAME": {	
-         "description": "your user-id",
-         "required": true,
-         "value": ""	
-      },
+      
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
@@ -141,11 +137,7 @@
          "required": false,
          "value": "1118936839"
       },
-       "NO_LOAD": {
-         "description": "Modules you don't need to load.",
-         "required": false,
-         "value": ""
-      },
+      
       "WALL_API":{
          "description": "Enter wall api",
          "required": false,
