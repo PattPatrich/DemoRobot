@@ -7,7 +7,7 @@
 Modular Telegram fun bot for your groups with a extras features (along with HunterxHunter theme).
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/f5f08b7f66d05c754a37e.png)](https://heroku.com/deploy?template=https://github.com/PattPatrich/PatrichsRoBot.git)
+[![Deploy](https://telegra.ph/file/f5f08b7f66d05c754a37e.png)](https://heroku.com/deploy?template=https://github.com/PattPatrich/DemoRobot.git)
 
 ### Configuration
 
