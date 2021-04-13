@@ -12,9 +12,9 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR BOT TOKEN HERE"
-    OWNER_ID = "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"
+    API_KEY = "1759961454:AAEaSSkSus0W4aI6q1N3FnDwNlnWKyC0kLc"
+    OWNER_ID = "606837450"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "info_eater"
     TELETHON_HASH = None  # for purge stuffs
     TELETHON_ID = None
     
@@ -23,7 +23,7 @@ class Config(object):
     MESSAGE_DUMP = None  # needed to make sure 'save from' messages persist
     GBAN_LOGS = None
     LOAD = []
-    NO_LOAD = ['translation', 'rss']
+    NO_LOAD = []
     WEBHOOK = False
     URL = None
 
