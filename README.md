@@ -1,23 +1,13 @@
-### @CinderellaProBot // http://www.telegram.dog/CinderellaProBot
+### @PatrichsRoBot // http://www.telegram.dog/PatrichsRoBot
 > with HunterxHunter theme.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
-
-<p align="center">
-  <a href="https://github.com/Sur-vivor/CinderellaProBot/fork">
-    <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/Sur-vivor/CinderellaProBot">
-    <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
-  </a>
-</p>
+Modular Telegram fun bot for your groups with a extras features (along with HunterxHunter theme).
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/511ad504656e712b88235.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
+[![Deploy](https://telegra.ph/file/f5f08b7f66d05c754a37e.png)](https://heroku.com/deploy?template=https://github.com/PattPatrich/PatrichsRoBot.git)
 
 ### Configuration
 
