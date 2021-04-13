@@ -407,6 +407,7 @@ def selfunban(bot: Bot, update: Update, args: List[str]) -> str:
 __help__ = """
  - /kickme: kicks the user who issued the command
  - /banme: If you give the command you will be trampled out and locked.
+
 *Admin only:*
  - /ban <userhandle>: bans a user. (via handle, or reply)
   -/sban <userhandle>: silent ban a user. (via handle, or reply)
