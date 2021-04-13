@@ -28,14 +28,14 @@ from cinderella.modules.connection import connect_button
 
 PM_START_TEXT = """
 _Hello_ *{}*
-_My name is_ *{}*\n_A Powerful Telegram ProBot to Manage Your Groups,feel free to add to your groups!!_
+_My name is_ *{}*\n_A Powerful Telegram Fun-Pro-Bot to Manage Your Groups,feel free to add to your groups!!_
 _Maintained by_ [{}](tg://user?id={})
 """
 
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
+I'm a modular Telegram fun bot for your groups with a bunch of extras features! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
  💠 - /start: start the bot
@@ -78,7 +78,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/511ad504656e712b88235.jpg"
+    img = "https://telegra.ph/file/f5f08b7f66d05c754a37e.png"
 else:
   img = START_IMG    
     
